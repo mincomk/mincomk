@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**mincomk/mincomk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working on [Zako 3](https://github.com/zako-ac/zako3), a full featured Audio bot for Discord and Web. (Any contributions are welcome!)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I do
+- Rust/TS backend
+- Architecture design
+- React/Tailwind+TS frontend
+
+### I love
+- Haskell!
+- UI design and colors as an art
+- Photography
+
+---
+
+### How to reach me
+- Email `mail@drchi.co.kr`
+- Discord `minco_rl`
+
