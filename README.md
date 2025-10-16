@@ -8,17 +8,21 @@ I'm currently working on [Zako 3](https://github.com/zako-ac/zako3), a full feat
 - Rust/TS backend
 - Architecture design
 - React/Tailwind+TS frontend
+- Learn to learn
 
 ### I love
 - Haskell!
+- Category Theory
 - UI design and colors as an art
 - Photography
+- Leading large projects
 
 ---
 
 ### Fun facts
-Since I don't have active developer network around, I have to code large thing alone!
-> Any contributions is always appreciated and welcome.
+- Monad is a monoid in the category of endofunctors.
+- Explicitness is an implicit emphasis.
+- I love automating things to reserve time to automate other things.
 
 ---
 
